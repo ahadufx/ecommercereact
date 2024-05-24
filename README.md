@@ -1,4 +1,4 @@
-# Flowy Cart - E-commerce
+# AHAD - E-commerce
 
 FlowyCart - An E-commerce site build using React, Redux, Redux-toolkit, React-router-dom and Typescript
 
